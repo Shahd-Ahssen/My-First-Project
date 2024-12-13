@@ -182,6 +182,7 @@ body {
     justify-content: center;
     margin: 0%;
     place-items: center;
+    transform: translateX(60px);
 }
 
 .game .game-btn:hover{
